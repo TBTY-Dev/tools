@@ -84,7 +84,7 @@
     "vscode-uri": "=1.0.6",
     "whatwg-url": "^6.4.0"
   },
-  "engines": {
+  "engines": {9
     "node": ">=8"
   }
 
